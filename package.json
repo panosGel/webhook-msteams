@@ -1,0 +1,22 @@
+{
+  "name": "webhook-msteams",
+  "version": "0.0.1",
+  "description": "Microsoft Teams \u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5DSend messages to Microsoft Teams Webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panosGel/webhook-msteams.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panosGel/webhook-msteams/issues"
+  },
+  "homepage": "https://github.com/panosGel/webhook-msteams#readme",
+  "dependencies": {
+    "ms-teams-webhook": "^1.0.3"
+  }
+}
